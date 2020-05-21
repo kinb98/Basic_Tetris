@@ -6,4 +6,3 @@ A basic game of tetris made using HTML, CSS and pure Javascript.
 
 
 
-- 
