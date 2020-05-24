@@ -1,8 +1,16 @@
+body{
+    max-width: 400px;
+    margin: auto;
+}
 .container{
     display: flex;
 
 }
 
+#startbutton{
+    max-width: 200px;
+    margin: 20px auto;
+}
 
 .grid{
     width: 200px;
